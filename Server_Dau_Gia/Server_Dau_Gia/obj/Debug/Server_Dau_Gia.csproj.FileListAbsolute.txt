@@ -1,0 +1,20 @@
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\bin\Debug\Server_Dau_Gia.exe.config
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\bin\Debug\Server_Dau_Gia.exe
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\bin\Debug\Server_Dau_Gia.pdb
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.csproj.AssemblyReference.cache
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.Form1.resources
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.Properties.Resources.resources
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.csproj.GenerateResource.cache
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.csproj.CoreCompileInputs.cache
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.exe
+D:\bai tap laptirnh mang\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.pdb
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\bin\Debug\Server_Dau_Gia.exe.config
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\bin\Debug\Server_Dau_Gia.exe
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\bin\Debug\Server_Dau_Gia.pdb
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.csproj.AssemblyReference.cache
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.Form1.resources
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.Properties.Resources.resources
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.csproj.GenerateResource.cache
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.csproj.CoreCompileInputs.cache
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.exe
+D:\Learn git\HTML.Phong\Server_Dau_Gia\Server_Dau_Gia\obj\Debug\Server_Dau_Gia.pdb

@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Learn git\\HTML.Phong\\Client_Dau_Gia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0279665D-E472-429C-84C6-DDA3D7BB68BE}|Client_Dau_Gia\\Client_Dau_Gia.csproj|D:\\Learn git\\HTML.Phong\\Client_Dau_Gia\\client_dau_gia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0279665D-E472-429C-84C6-DDA3D7BB68BE}|Client_Dau_Gia\\Client_Dau_Gia.csproj|solutionrelative:client_dau_gia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0279665D-E472-429C-84C6-DDA3D7BB68BE}|Client_Dau_Gia\\Client_Dau_Gia.csproj|d:\\learn git\\html.phong\\client_dau_gia\\client_dau_gia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0279665D-E472-429C-84C6-DDA3D7BB68BE}|Client_Dau_Gia\\Client_Dau_Gia.csproj|solutionrelative:client_dau_gia\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Learn git\\HTML.Phong\\Client_Dau_Gia\\Client_Dau_Gia\\Form1.cs",
+              "RelativeDocumentMoniker": "Client_Dau_Gia\\Form1.cs",
+              "ToolTip": "D:\\Learn git\\HTML.Phong\\Client_Dau_Gia\\Client_Dau_Gia\\Form1.cs",
+              "RelativeToolTip": "Client_Dau_Gia\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAA2wCQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:53:11.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Learn git\\HTML.Phong\\Client_Dau_Gia\\Client_Dau_Gia\\Form1.cs",
+              "RelativeDocumentMoniker": "Client_Dau_Gia\\Form1.cs",
+              "ToolTip": "D:\\Learn git\\HTML.Phong\\Client_Dau_Gia\\Client_Dau_Gia\\Form1.cs [Design]",
+              "RelativeToolTip": "Client_Dau_Gia\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-23T15:53:07.814Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
