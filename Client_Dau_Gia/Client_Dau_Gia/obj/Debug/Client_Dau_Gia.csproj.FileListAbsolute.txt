@@ -18,3 +18,13 @@ D:\Learn git\HTML.Phong\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.c
 D:\Learn git\HTML.Phong\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.csproj.CoreCompileInputs.cache
 D:\Learn git\HTML.Phong\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.exe
 D:\Learn git\HTML.Phong\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.pdb
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\bin\Debug\Client_Dau_Gia.exe.config
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\bin\Debug\Client_Dau_Gia.exe
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\bin\Debug\Client_Dau_Gia.pdb
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.csproj.AssemblyReference.cache
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.Form1.resources
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.Properties.Resources.resources
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.csproj.GenerateResource.cache
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.csproj.CoreCompileInputs.cache
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.exe
+D:\Do_an_Dau_Gia_Nhom_1\Client_Dau_Gia\Client_Dau_Gia\obj\Debug\Client_Dau_Gia.pdb

@@ -34,7 +34,7 @@ namespace Client_Dau_Gia
             try
             {
                 client = new TcpClient();
-                client.Connect("192.168.1.21", 8888); // Kết nối đến Server
+                client.Connect("192.168.1.233", 8888); // Kết nối đến Server
                 stream = client.GetStream();
 
                 // Lấy địa chỉ IP và cổng của Client
